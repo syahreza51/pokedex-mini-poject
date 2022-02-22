@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # Pokemon Dev
 =======
-# Pokemon Dev Test
->>>>>>> 7df82b7ecf56005739e3ee9fa361cf4a080652bd
 
 ## Requirement
 - Node JS v12.x.x
