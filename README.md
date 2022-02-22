@@ -1,4 +1,4 @@
-# Tokopedia Pokemon Dev Test
+# Pokemon Dev
 
 ## Requirement
 - Node JS v12.x.x

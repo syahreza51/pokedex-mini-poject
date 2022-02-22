@@ -1,4 +1,4 @@
-const CACHE_NAME = 'tokopedia-pokemon';
+const CACHE_NAME = 'pokemon-mini-projecr';
 const urlsToCache = ['/'];
 
 self.addEventListener('install', event => {
