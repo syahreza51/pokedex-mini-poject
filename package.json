@@ -11,7 +11,8 @@
     "lint:fix": "npm run lint -- --fix",
     "test": "jest",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist",
+    "export": "yarn build && next export"
   },
   "dependencies": {
     "@apollo/client": "^3.3.21",
